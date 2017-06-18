@@ -5,7 +5,7 @@ base code project for https://github.com/jerson/react-suite
 ![default view](https://github.com/jerson/react-suite-boilerplate/raw/master/docs/sample.png)
 
 
-##install
+## install
 
     git clone https://github.com/jerson/react-suite-boilerplate
     cd react-suite-boilerplate
@@ -17,11 +17,11 @@ now you are ready for code
     yarn run build -- --watch #this compile tsx to js on change
     
 
-##run on web
+## run on web
     
     yarn run start:web
     
-##run on mobile
+## run on mobile
 
 same as a normal react native project
 
@@ -29,17 +29,13 @@ same as a normal react native project
     yarn run android 
     yarn run ios 
 
-##build on web
+## build on web
     
     yarn run build:web
     
-##build on mobile
+## build on mobile
 
 same as a normal react native project
 
      cd android && ./gradlew assembleRelease  
     
-##donate
-
-
-     cd android && ./gradlew assembleRelease  
