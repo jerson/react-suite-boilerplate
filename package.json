@@ -43,7 +43,6 @@
         "react-native-orientation": "git+https://github.com/Dudyboy/react-native-orientation.git",
         "react-native-shared-preferences": "^0.0.8",
         "react-native-slider": "^0.10.0",
-        "react-native-syntax-highlighter": "^1.2.1",
         "react-native-vector-icons": "^4.2.0",
         "react-native-web": "^0.0.96",
         "react-router-dom": "^4.1.1",
