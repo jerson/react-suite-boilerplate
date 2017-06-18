@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
     <key>CodePushDeploymentKey</key>
-    <string>3bIDwCu7s2Mss9hJjV9e77Bs9qoA7314e838-87bb-4c98-ad1a-749779553b3c</string>
+    <string>yourcodepushere</string>
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
