@@ -2,7 +2,9 @@
 
 base code project for https://github.com/jerson/react-suite
 
-![default view](https://github.com/jerson/react-suite-boilerplate/raw/master/docs/sample.png)
+![default view](https://github.com/jerson/react-suite-boilerplate/raw/master/docs/web01.png)
+![default view](https://github.com/jerson/react-suite-boilerplate/raw/master/docs/web02.png)
+![default view](https://github.com/jerson/react-suite-boilerplate/raw/master/docs/web03.png)
 
 
 ## install
