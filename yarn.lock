@@ -5491,14 +5491,15 @@ react-router@^4.1.1:
     prop-types "^15.5.4"
     warning "^3.0.0"
 
-react-suite@^0.0.136-dev:
-  version "0.0.136-dev"
-  resolved "https://registry.yarnpkg.com/react-suite/-/react-suite-0.0.136-dev.tgz#d70c4be34ca410da761cf6dbcdc1a3d59019f1d0"
+react-suite@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/react-suite/-/react-suite-0.1.0.tgz#4278a70ddb684dedcd5f9cdf4f236f05a93386b5"
   dependencies:
     pubsub-js "^1.5.7"
     qs "^6.4.0"
     simplestorage.js "^0.2.1"
     string-format "^0.5.0"
+    tinycolor2 "^1.4.1"
 
 react-test-renderer@16.0.0-alpha.6:
   version "16.0.0-alpha.6"
@@ -6512,6 +6513,10 @@ timers-browserify@^2.0.2:
   resolved "https://registry.yarnpkg.com/timers-browserify/-/timers-browserify-2.0.2.tgz#ab4883cf597dcd50af211349a00fbca56ac86b86"
   dependencies:
     setimmediate "^1.0.4"
+
+tinycolor2@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.4.1.tgz#f4fad333447bc0b07d4dc8e9209d8f39a8ac77e8"
 
 title-case@^1.1.0:
   version "1.1.2"
